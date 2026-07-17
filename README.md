@@ -7,11 +7,13 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +45,7 @@ all basic concepts of dsa
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -55,5 +58,22 @@ all basic concepts of dsa
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

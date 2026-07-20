@@ -95,4 +95,8 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

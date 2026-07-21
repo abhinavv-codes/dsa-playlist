@@ -35,6 +35,7 @@ all basic concepts of dsa
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/abhinavv-codes/dsa-playlist/tree/master/2390-removing-stars-from-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -102,4 +103,5 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->

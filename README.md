@@ -13,6 +13,7 @@ all basic concepts of dsa
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -66,10 +67,12 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0202-happy-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -82,6 +85,7 @@ all basic concepts of dsa
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -98,6 +102,7 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -121,4 +126,13 @@ all basic concepts of dsa
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ all basic concepts of dsa
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1260-shift-2d-grid](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
@@ -68,12 +69,14 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0202-happy-number) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -86,6 +89,7 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -143,4 +147,5 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0786-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->

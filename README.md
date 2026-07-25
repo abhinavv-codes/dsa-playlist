@@ -60,6 +60,7 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0202-happy-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -91,6 +92,7 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3501-maximize-active-section-with-trade-ii) |

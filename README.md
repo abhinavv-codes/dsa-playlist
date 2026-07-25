@@ -64,6 +64,7 @@ all basic concepts of dsa
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ all basic concepts of dsa
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |

@@ -8,6 +8,7 @@ all basic concepts of dsa
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0628-maximum-product-of-three-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1260-shift-2d-grid](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -60,6 +61,7 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
@@ -78,6 +80,7 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0628-maximum-product-of-three-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3536-maximum-product-of-two-digits) |

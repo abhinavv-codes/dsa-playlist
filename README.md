@@ -24,6 +24,7 @@ all basic concepts of dsa
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0202-happy-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
@@ -43,6 +44,7 @@ all basic concepts of dsa
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/abhinavv-codes/dsa-playlist/tree/master/2390-removing-stars-from-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -85,6 +87,7 @@ all basic concepts of dsa
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0628-maximum-product-of-three-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3536-maximum-product-of-two-digits) |
@@ -111,6 +114,7 @@ all basic concepts of dsa
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -120,6 +124,7 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhinavv-codes/dsa-playlist/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |

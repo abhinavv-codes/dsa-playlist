@@ -64,6 +64,7 @@ all basic concepts of dsa
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -169,4 +170,12 @@ all basic concepts of dsa
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhinavv-codes/dsa-playlist/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abhinavv-codes/dsa-playlist/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

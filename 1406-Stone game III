@@ -22,3 +22,5 @@ public:
         return "Tie";
     }
 };
+
+// converting recursion + memoiazation to bottom up 
